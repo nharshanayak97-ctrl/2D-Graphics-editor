@@ -1,0 +1,15 @@
+"Requirements: ... Problem Statement: Write a 2d graphics editor using * and _. ... write step by step procedure for github and antigravity ide"
+"now what about gitignore and license"
+"give the entire code"
+"create a readme file for this"
+"give me the set of prompts that ive used"
+
+"i want you to create a resume for me, ask me all the relevant info about me"
+(Answers to my clarifying questions: General/portfolio use; Education, Projects, Skills/Tech stack, Certifications/Achievements)
+(Provided personal/education/project details for the resume)
+"based on this file, create a porfolio"
+"how to deploy this website from github repository"
+"i created a html file portfolio.html and went to pages and selected deploy from main but its not loading"
+"give me step by step procedure to publish wensite"
+"now create a reame file for both the graphics editor code and portfolio"
+"give me the list of prompts that ive used"
